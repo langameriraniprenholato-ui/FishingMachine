@@ -1,0 +1,10 @@
+{
+  "Name": "Fishing Machine Logic",
+  "Author": "SeuNome",
+  "Version": "1.0.0",
+  "Description": "Transforma o Charcoal Kiln em uma máquina de pesca ao usar isca.",
+  "UniqueID": "SeuNome.FishingMachine",
+  "EntryDll": "FishingMachine.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
